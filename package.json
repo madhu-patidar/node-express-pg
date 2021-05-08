@@ -34,7 +34,7 @@
     "express": "^4.16.3",
     "mysql": "^2.15.0",
     "nodemon": "^1.19.1",
-    "typeorm": "^0.2.21"
+    "typeorm": "^0.2.25"
   },
   "scripts": {
     "start": "tsc && nodemon dist/index.js",
